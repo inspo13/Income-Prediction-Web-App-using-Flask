@@ -1,5 +1,5 @@
 # Income-Prediction-Web-App-using-Flask
-# Income-Prediction-Web-App-using-Flask
+
 
 In this repository, you can find an ML model deployed on a Web App using Flask. I have trained a machine learning model using the Decision Tree algorithm because it is easy to use, resilient and flexible. which helps to predict the income based on input data:
 Age, Work class, education, marital status, occupation, relationship, race, gender, capital gain, capital loss, work hours per week, and native country.
