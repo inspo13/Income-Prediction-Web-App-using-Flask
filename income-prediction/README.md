@@ -28,7 +28,7 @@ To create this Web App follow the steps given below:
 8. Now, you are ready to train the model using the given dataset. Create Html files that structure your website.
 
 Folder Structure:
-<img src="App's Screenshots/Iris Prediction App img1.png" width="280" height="480">
+<img src="images4readme/Iris Prediction App img1.png" width="280" height="480">
 
 
 
