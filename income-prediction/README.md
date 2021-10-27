@@ -28,6 +28,8 @@ To create this Web App follow the steps given below:
 8. Now, you are ready to train the model using the given dataset. Create Html files that structure your website.
 
 Folder Structure:
+
+
 <img src="images4readme/Folder Structure.png" width="280" height="480">
 
 
@@ -36,13 +38,15 @@ Folder Structure:
 
 
 Screenshots of Web App:
-<img src="images4readme/Web App img1.png" width="280" height="480">
+
+
+<img src="images4readme/Web App img 1.png" width="600" height="300">
 
 
 
 
 
-<img src="iimages4readme/Web App img2.png" width="280" height="480">
+<img src="images4readme/Web App img2.png" width="600" height="300">
 
 
 
